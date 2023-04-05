@@ -1,4 +1,4 @@
-# Pricing_data_analysis
+# Pricing Data Analysis
 In this [project](code.ipynb), I used pandas and numpy in Python to analyse pricing data.
 
 Topic 1: 
